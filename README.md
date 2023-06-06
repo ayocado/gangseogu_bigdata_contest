@@ -85,15 +85,18 @@
 <br>
 
 ## 💻 기술 스택
-##### 언어
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span>
-##### 라이브러리
+<b> 언어 </b><br>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span><br>
+
+<b> 라이브러리 </b><br>
 <span><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white"></span>
-##### 프로그래밍 인터페이스
-<span><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></span>
-##### 협업툴
+<span><img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white"></span><br>
+
+<b> 프로그래밍 인터페이스 </b><br>
+<span><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></span><br>
+
+<b> 협업툴 </b><br>
 <span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
