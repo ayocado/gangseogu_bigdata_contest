@@ -11,6 +11,8 @@
 
 ## 📑 프로젝트 flow
 #### CRISP-DM 기반 프로젝트 수행
+<img src='./flow.png'>
+
 #### 1. Business Understanding
 - 각종 미디어를 통한 강서구의 문제점 파악
 
