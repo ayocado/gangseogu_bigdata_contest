@@ -11,7 +11,10 @@
 #### CRISP-DM 기반 프로젝트 수행
 #### 1. Business Understanding
 - 각종 미디어를 통한 강서구의 문제점 파악
-#### 2. Data Understanding
+
+#### [2. Data Understanding](./2_data_understading.md)
+<!-- <a href='./2_data_understading.md'></a> -->
+
 - 공공데이터 수집
 - 데이터 전처리 및 가설 수립
 #### 3. Data Preparation
